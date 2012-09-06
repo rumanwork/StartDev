@@ -1,0 +1,135 @@
+body{
+	background-color: #F1F1F1;
+	font-family: Arial;
+	color: #4D4D4D;
+	font-size: 14px;
+}
+header{
+	width: 910px;
+	margin: 0 auto;
+	padding: 20px 0 0 0;
+	.logo{
+		color: #4D4D4D;
+		text-decoration: none;
+		font-size: 38px;
+		font-family: 'PT Sans Narrow';
+	}
+	h1{
+		font-size: 14px;
+		margin: -10px 0 0 0;
+		padding: 0;
+		font-style: italic;
+		font-weight: normal;
+	}
+}
+footer{
+	position:relative;
+	width: 910px;
+	margin: 0 auto;
+	padding: 40px 0 10px 0;
+
+	span{
+		display:block;
+		font-size: 10px;
+		line-height: 10px;
+		margin-top: 10px;
+	}
+	.copy{
+		font-size: 13px;
+	}
+}
+.content{
+	position: relative;
+	top:20px;
+	width: 840px;
+	margin: 0 auto;
+	border-radius:5px;
+	border: 1px solid #ccc;
+	background-color: #FFF;
+	padding: 20px 35px;
+	box-shadow:0 0 14px rgba(0,0,0,.1);
+	p, h2{
+		margin-left:20px;
+		margin-right:20px;
+	}
+	h1,h2,h3,h4{
+		font-family: 'PT Sans Narrow';
+	}
+	h2{
+		font-size: 28px;
+	}
+}
+.splashimage{
+	margin: 30px 0;
+}
+.note{
+	border:1px solid #5088C5;
+	padding: 10px;
+	margin: 20px;
+	& p{
+		margin: 0;
+	}
+}
+.menu{
+	display: table;
+	width: 910px;
+	margin: -20px 0 0 -35px;
+	padding: 0;
+	table-layout:fixed;
+}
+.menu li{
+	position: relative;
+	display: table-cell;
+	font-family: 'PT Sans Narrow';	
+	font-size: 13px;
+	line-height: 22px;
+	letter-spacing:1px;
+	color: #fff;
+	&.start{
+		background-color: #7DB29F;
+		border-radius:4px 0 0 0;
+	}
+	&.tutorial{
+		background-color: #D9BC6D;
+	}
+	&.fundamentals{
+		background-color: #DD9E85;
+	}
+	&.development{
+		background-color: #B18FB3;
+	}
+	&.next-steps{
+		background-color: #83A0DA;
+		border-radius:0 4px 0 0;
+	}
+	a{
+		display:block;
+		color: #fff;
+		text-decoration: none;
+		height: 20px;
+		margin: 0 3px;
+		text-align: center;
+
+	}
+	ul{
+		position: absolute;
+		width: 182px;
+		padding: 5px 0 8px;
+		border-bottom:2px solid #333;
+		display:none;
+		background-color: inherit;
+		li{
+			display:block;
+			padding-left: 10px;
+			a{
+				text-align: left;
+				display:inline;
+				font-size: 14px;
+				&:hover{
+					text-decoration: underline;
+				}
+			}
+		}
+	}
+	&:hover ul{ display:block }
+}
