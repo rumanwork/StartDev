@@ -144,6 +144,22 @@ footer span {
 footer .copy {
   font-size: 13px;
 }
+.clear {
+  clear: both;
+}
+.inf {
+  width: 728px;
+  height: 60px;
+  margin-left: 20px;
+}
+.inf.l {
+  float: left;
+  clear: left;
+}
+.inf.r {
+  float: right;
+  clear: right;
+}
 .content {
   position: relative;
   top: 20px;
