@@ -1,0 +1,479 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"right"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"dispo",
+				"display	zen:css_properties"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"sel",
+				"selectBox"
+			],
+			[
+				"Sc",
+				"scrollBox"
+			],
+			[
+				"conte",
+				"contentWrap"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"left",
+				"leftPanel"
+			],
+			[
+				"close",
+				"closeLeftPanel"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"rep",
+				"repeat"
+			],
+			[
+				"st",
+				"std"
+			],
+			[
+				"def",
+				"def	def … end"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3925,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style/less/layout.less",
+			"settings":
+			{
+				"buffer_size": 2508,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style/less/reset.less",
+			"settings":
+			{
+				"buffer_size": 2732,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style/less/main.less",
+			"settings":
+			{
+				"buffer_size": 67,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style/less/color.less",
+			"settings":
+			{
+				"buffer_size": 38,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ruman/Documents/StartDevOSX/.git/COMMIT_EDITMSG",
+		"/Users/ruman/Documents/StartDevOSX/images/roadmap_intro.svg",
+		"/Users/ruman/Documents/StartDevOSX/style/less/reset.css",
+		"/Users/ruman/Documents/StartDevOSX/style/css/main.css",
+		"/Users/ruman/Documents/Work/picker/.git/COMMIT_EDITMSG",
+		"/Users/ruman/.gitignore_global",
+		"/Users/ruman/.gitignore",
+		"/Users/ruman/Documents/Work/picker/js/thumbs.js",
+		"/Users/ruman/Documents/Work/picker/css/style.css",
+		"/Users/ruman/Documents/Work/picker/index.html",
+		"/Volumes/Crypt/forWork/Picker/.git/COMMIT_EDITMSG",
+		"/Volumes/Crypt/forWork/Picker/js/scrollBox.js",
+		"/Volumes/hd/ruman/Documents/xCode/vPlayer/.git/COMMIT_EDITMSG",
+		"/Volumes/Crypt/forWork/Picker/index.html",
+		"/Volumes/hd/ruman/Documents/Ruby/anekdotes/Anekdotes.sublime-project",
+		"/Volumes/hd/ruman/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/private/tmp/untitled.rb",
+		"/Volumes/hd/ruman/Library/Application Support/Sublime Text 2/Packages/JsMinifier/Minifier.sublime-settings",
+		"/Volumes/hd/ruman/Library/Application Support/Sublime Text 2/Packages/ZenCoding/Default.sublime-keymap",
+		"/Volumes/hd/ruman/Library/Application Support/Sublime Text 2/Packages/User/zen-coding.sublime-settings",
+		"/Volumes/hd/ruman/Library/Application Support/Sublime Text 2/Packages/ZenCoding/zen-coding.sublime-settings",
+		"/private/tmp/test.cc",
+		"/Volumes/hd/ruman/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/private/tmp/index.html",
+		"/Volumes/hd/ruman/Documents/Ruby/anekdotes/app.rb",
+		"/Volumes/hd/ruman/Documents/Ruby/anekdotes/Capfile",
+		"/private/tmp/t.rb",
+		"/Volumes/Crypt/forWork/Picker/images/controlls.png",
+		"/Volumes/Crypt/forWork/Picker/server/start.py",
+		"/Volumes/hd/ruman/.bashrc",
+		"/Volumes/hd/ruman/.gitconfig",
+		"/private/tmp/test.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"интерфейса",
+			";\n",
+			" ;",
+			"this.scrollContent",
+			"favorit",
+			"ul",
+			"add",
+			"input",
+			"create",
+			"folders",
+			"backButtonWrap",
+			"leftPanel",
+			"<!",
+			"|",
+			"item",
+			"=\"\"></",
+			"item",
+			"li",
+			"item",
+			"6",
+			"ыв",
+			"50",
+			"+\n",
+			"style",
+			"5",
+			"s4",
+			"5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3925,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								620,
+								620
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style/less/layout.less",
+					"settings":
+					{
+						"buffer_size": 2508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								631,
+								631
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 410.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style/less/reset.less",
+					"settings":
+					{
+						"buffer_size": 2732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								854,
+								854
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 406.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "style/less/main.less",
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "style/less/color.less",
+					"settings":
+					{
+						"buffer_size": 38,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true
+}
