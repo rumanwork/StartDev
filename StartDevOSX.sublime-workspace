@@ -111,7 +111,15 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3925,
+				"buffer_size": 3989,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "install.html",
+			"settings":
+			{
+				"buffer_size": 3282,
 				"line_ending": "Unix"
 			}
 		},
@@ -119,7 +127,7 @@
 			"file": "style/less/layout.less",
 			"settings":
 			{
-				"buffer_size": 2508,
+				"buffer_size": 2556,
 				"line_ending": "Unix"
 			}
 		},
@@ -273,7 +281,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -281,15 +289,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 3925,
+						"buffer_size": 3989,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								620,
-								620
+								3644,
+								3644
 							]
 						],
 						"settings":
@@ -298,25 +306,53 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1170.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "style/less/layout.less",
+					"file": "install.html",
 					"settings":
 					{
-						"buffer_size": 2508,
+						"buffer_size": 3282,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								631,
-								631
+								3237,
+								3237
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 885.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style/less/layout.less",
+					"settings":
+					{
+						"buffer_size": 2556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
 							]
 						],
 						"settings":
@@ -326,13 +362,13 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 410.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "style/less/reset.less",
 					"settings":
 					{
@@ -360,7 +396,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "style/less/main.less",
 					"settings":
 					{
@@ -386,7 +422,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 5,
 					"file": "style/less/color.less",
 					"settings":
 					{
